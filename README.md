@@ -1,2 +1,2 @@
 # eCommerce-Store
-eCommerce Store built with Jamstack and Commerce.js
+eCommerce Store built with Commerce.js, Next.js, Jamstack
